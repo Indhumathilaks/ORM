@@ -3,8 +3,8 @@
 ## AIM
 To develop a Django application to store and retrieve data from a bank loan database using Object Relational Mapping(ORM).
 
-## ENTITY RELATIONSHIP DIAG!
-[Alt text](<BANKLOAN ERD.png>)
+## ENTITY RELATIONSHIP DIAGRAM
+![Alt text](<BANKLOAN ERD.png>)
 
 
 
@@ -45,8 +45,8 @@ from .models import Bankloan,BankloanAdmin
 admin.site.register(Bankloan,BankloanAdmin)
 ```
 
-##OUTPUT
+## OUTPUT
 ![Alt text](<admin page.png>)
 
 ## RESULT
-Thus the program for creating a database using ORM hass been executed successfully
+Thus the program for creating a database using ORM hass been executed successfully.
